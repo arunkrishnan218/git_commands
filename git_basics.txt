@@ -1,2 +1,10 @@
 Git Commands List:
 **********************
+git config --list
+git <verb> -h --- short help page
+git status -s
+git diff --staged
+git log
+git commit -a -m "Commit Message"
+
+Need to use personal token to push to remote
